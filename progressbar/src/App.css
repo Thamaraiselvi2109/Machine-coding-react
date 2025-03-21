@@ -1,8 +1,15 @@
+body{
+  background-color: darkslategray;
+  text-align: center;
+  margin: 0px;
+  padding: 50px;
+  color: antiquewhite;
+}
 .outer{
   display: flex;
   width: 100%;
+  background-color: black;
   justify-content: start;
-  border: 1px solid black;
   border-radius: 50px;
   overflow: hidden;
   height: 30px;
